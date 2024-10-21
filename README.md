@@ -47,3 +47,11 @@ To use the exercises in this repository:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Tutusaus/Excel.git
+2. Open the Excel files using Microsoft Excel or any compatible spreadsheet software.
+3. Follow the instructions provided in each exercise to replicate the work or build upon it for your own projects.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to reach out if you have any questions or need further clarification on any of the exercises!
